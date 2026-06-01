@@ -41,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         $mail->setFrom($config['username'], 'Website Contact Form');
 
         // Receiver
-        $mail->addAddress("yukthisocialmedia@gmail.com");
+        $mail->addAddress("nextgeninfotech26@gmail.com");
 
         // Email format
         $mail->isHTML(true);

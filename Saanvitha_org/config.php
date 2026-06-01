@@ -2,8 +2,8 @@
 <?php
 return [
     'host' => 'smtp.gmail.com',
-    'username' => 'yukthisocialmedia@gmail.com',
-    'password' => 'fqfmmxmknkaqmkwm',
+    'username' => 'nextgeninfotech26@gmail.com',
+    'password' => 'rjwv gkfg gmob gsks',
     'encryption' => 'tls',
     'port' => 587
 ];
